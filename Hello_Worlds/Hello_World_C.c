@@ -1,6 +1,6 @@
 /*  Hello World in C */
 
-#include <stdio>
+#include <stdio.h>
 
 main(){
 
